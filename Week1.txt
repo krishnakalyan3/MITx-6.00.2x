@@ -1,0 +1,5 @@
+Edx 6.00.2x
+NumPy : Matrix Operations
+Scipy : Mathemetical Classes
+MatPlotLib : OO API for plotting
+PyLab : Matlb kind interface
